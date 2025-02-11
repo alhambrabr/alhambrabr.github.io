@@ -1,14 +1,14 @@
 [
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.safeportbr.app",
-      "sha256_cert_fingerprints": [
-        "65:38:92:E8:7E:51:FB:12:9D:BE:4E:4A:3B:37:CB:0C:61:BF:80:B9:F6:F5:E9:D0:07:48:01:F3:D4:66:66:1D"
-      ]
-    }
-  }
+   {
+      "relation" : [
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target" : {
+         "namespace" : "android_app",
+         "package_name" : "com.safeportbr.app",
+         "sha256_cert_fingerprints" : [
+            "65:38:92:E8:7E:51:FB:12:9D:BE:4E:4A:3B:37:CB:0C:61:BF:80:B9:F6:F5:E9:D0:07:48:01:F3:D4:66:66:1D"
+         ]
+      }
+   }
 ]
